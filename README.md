@@ -5,8 +5,6 @@ CIC-Certified BIM Coordinator · Senior Digital Engineer in Hong Kong · 6+ year
 **What I build**
 - 🏗️ [LoadingAI for Revit](https://github.com/loadingcloud001/LoadingAI-Revit): chat with your Revit model through 87 typed tools, with dry runs and one undo step per turn (MIT)
 - 🌡️ [hk-site-display](https://github.com/loadingcloud001/hk-site-display): a live heat-stress and HKO weather notice for Hong Kong construction sites
-- 🎥 [virex](https://github.com/loadingcloud001/virex): a sustainable AI live-stream and NVR platform (AGPL)
-- 🔌 [SuperGrok-Proxy](https://github.com/loadingcloud001/SuperGrok-Proxy): a local OpenAI-compatible proxy for AI agents
 
 **Stack:** Revit API · C# · Dynamo · Python · TypeScript · Navisworks · IFC · computer vision
 
